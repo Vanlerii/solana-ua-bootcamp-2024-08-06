@@ -1,0 +1,7 @@
+/Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/load-keypair/target/debug/deps/libark_serialize_derive-7689c97714bc30b6.dylib: /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/lib.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/serialize.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/deserialize.rs
+
+/Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/load-keypair/target/debug/deps/ark_serialize_derive-7689c97714bc30b6.d: /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/lib.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/serialize.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/deserialize.rs
+
+/Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/lib.rs:
+/Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/serialize.rs:
+/Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-derive-0.4.2/src/deserialize.rs:

@@ -1,0 +1,9 @@
+/Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/generate_keypair/target/debug/deps/liblight_poseidon-7cd0aa4fcd03f401.rmeta: /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/lib.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/mod.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/bn254_x5.rs
+
+/Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/generate_keypair/target/debug/deps/liblight_poseidon-7cd0aa4fcd03f401.rlib: /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/lib.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/mod.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/bn254_x5.rs
+
+/Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/generate_keypair/target/debug/deps/light_poseidon-7cd0aa4fcd03f401.d: /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/lib.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/mod.rs /Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/bn254_x5.rs
+
+/Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/lib.rs:
+/Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/mod.rs:
+/Users/valeriiafanasiev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/light-poseidon-0.2.0/src/parameters/bn254_x5.rs:

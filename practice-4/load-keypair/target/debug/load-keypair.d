@@ -1,0 +1,1 @@
+/Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/load-keypair/target/debug/load-keypair: /Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/load-keypair/src/main.rs

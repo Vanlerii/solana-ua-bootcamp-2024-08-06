@@ -1,0 +1,1 @@
+/Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/keygen/target/debug/keygen: /Users/valeriiafanasiev/Documents/Projects/Solana_course/solana-ua-bootcamp-2024-08-06/practice-4/keygen/src/main.rs
